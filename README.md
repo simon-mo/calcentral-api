@@ -12,4 +12,5 @@ Here are few features:
 
 Here are few limitations:
 
-- It can be slow. So far I can't find a way to hack the authentication without actual let the agent to be a browser. Thus, all I can do is use `selenium` and `ghostjs` to authenticate. 
+- It can be slow. So far I can't find a way to hack the authentication without actual let the agent to be a browser (which has javascript support). Thus, all I can do is use `selenium` and `ChromeWebDriver` to authenticate. 
+
