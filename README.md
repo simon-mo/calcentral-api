@@ -19,3 +19,4 @@ Here are few limitations:
 1. `brew install selenium-server-standalone`
 2. `pip install -U selenium`
 3. Download Chrome Webdriver: https://sites.google.com/a/chromium.org/chromedriver/downloads
+4. Configure the script by chaging the course link in `calcentral.py` and run the script in python3
